@@ -2,10 +2,12 @@
 
 # 存放路径
 文件放在 `%HOMEPATH%\Documents\houdini18.0\scripts\456.py`
+
 houdini 每次打开会自动读取 456.py 文件
 
 # Install_HDA 使用方法
 修改 456.py 最后两行
+
 ▼ 例子一：默认去搜索 hdapath/hda 和 hdapath/otls 文件夹里的hda文件
 ```
 hdapath = 'C:/Users/handier/Documents/houdini18.0'
