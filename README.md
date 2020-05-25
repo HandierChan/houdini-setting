@@ -15,3 +15,5 @@ mypath = 'D:/houdini18.0'
 Install_HDA(mypath,['aa','bb'],['cc'])
 '''
 意思是 `D:/houdini18.0` 里有三个文件夹，会搜索 aa、bb 文件夹，而不会搜索 cc 文件夹
+
+
