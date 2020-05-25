@@ -8,7 +8,7 @@
 # Install_HDA 如何使用
 **主要是修改 456.py 最后两行，可多次增加**
 
-▼ 1.上面两行：默认会搜索 hdapath 里面 hda、otls 文件夹的 hda 文件；2.下面两行：`D:/houdini18.0` 里有三个文件夹，会搜索 aa、bb 文件夹，而不会搜索 cc 文件夹
+▼ 1. 上面两行：默认会搜索 hdapath 里面 hda、otls 文件夹的 hda 文件；2. 下面两行：`D:/houdini18.0` 里有三个文件夹，会搜索 aa、bb 文件夹，而不会搜索 cc 文件夹
 ```
 hdapath = 'C:/Users/handier/Documents/houdini18.0'
 Install_HDA(hdapath)
