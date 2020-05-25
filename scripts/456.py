@@ -19,5 +19,5 @@ def Install_HDA(path, hdaFolderLists=['hda','otls'], hdaFolderBlacklists=['old',
                         # print(os.path.normpath(path))
                         hou.hda.installFile(os.path.join(hdaRoot, hdaFile))
 
-hda = 'C:/Users/handier/Documents/houdini18.0'
-Install_HDA(hda)
+hdapath = 'C:/Users/handier/Documents/houdini18.0'
+Install_HDA(hdapath)
