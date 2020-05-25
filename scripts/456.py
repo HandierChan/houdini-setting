@@ -1,3 +1,4 @@
+# By HandierChan
 import hou,os
 
 def Install_HDA(path, hdaFolderLists=['hda','otls'], hdaFolderBlacklists=['old','olds','backup'], hdaExtension=['.hda','.otl']):
